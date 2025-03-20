@@ -24,3 +24,6 @@ jobs:
           config_octicon: yes
           config_padding: 0
           config_timezone: Asia/Seoul
+          config_display: compact
+          config_margin: 0
+          config_item_spacing: 0
