@@ -1,8 +1,8 @@
 <div align="center">
   <table>
     <tr>
-      <td><img src="metrics-activity.svg" alt="Activity metrics"></td>
-      <td><img src="metrics-notable.svg" alt="Notable contributions"></td>
+      <td width="45%"><img src="metrics-activity.svg" alt="Activity metrics" width="100%"></td>
+      <td width="55%"><img src="metrics-notable.svg" alt="Notable contributions" width="100%"></td>
     </tr>
   </table>
 </div>
