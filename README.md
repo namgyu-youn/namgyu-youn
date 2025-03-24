@@ -1,10 +1,5 @@
 <div align="center">
-  <table>
-    <tr>
-      <td width="45%"><img src="metrics-activity.svg" alt="Activity metrics" width="100%"></td>
-      <td width="55%"><img src="metrics-notable.svg" alt="Notable contributions" width="100%"></td>
-    </tr>
-  </table>
+  <img src="custom_metrics.svg" alt="GitHub Metrics" width="100%">
 </div>
 
 ### 🛠️ Tech Stack | <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="30"><img src="https://cultofthepartyparrot.com/parrots/matrixparrot.gif" width="30"><img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30"><img src="https://cultofthepartyparrot.com/parrots/hd/headbangingparrot.gif" width="30"><img src="https://cultofthepartyparrot.com/parrots/hd/mergeconflictparrot.gif" width="30">
