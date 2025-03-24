@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
   <img src="custom_metrics.svg" alt="GitHub Metrics" width="60%">
 </div>
 
@@ -12,5 +12,4 @@
 [![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)](https://github.com/supabase/supabase)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white)](https://github.com/postgres/postgres)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)](https://github.com/docker)
-[![Poetry](https://img.shields.io/badge/Poetry-60A5FA?style=flat-square&logo=poetry&logoColor=white)](https://github.com/python-poetry/poetry)
 [![Ruff](https://img.shields.io/badge/Ruff-D7FF64?style=flat-square&logo=ruff&logoColor=black)](https://github.com/astral-sh/ruff)
