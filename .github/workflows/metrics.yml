@@ -18,10 +18,8 @@ jobs:
           # Options
           user: namgyu-youn
           template: classic
-          base: activity, community
-          config_octicon: yes
+          base: metadata
           config_timezone: Asia/Seoul
-          plugin_calendar_limit: 1
           plugin_notable: yes
           plugin_notable_from: organization
           plugin_notable_types: commit
