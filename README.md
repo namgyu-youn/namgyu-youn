@@ -1,15 +1,14 @@
-Undergraduate student interested in following EfficientML (i.e., memory-efficient ML systems) techniques:
+Undergraduate student interested in following EfficientML (i.e., memory-efficient ML systems):
 - Distributed training : Distributed Data Parallel (DDP), Tensor Parallel (TP)
-- TinyML (Compression) : Pruning, Neural Architecture Searching (NAS)
-- Optimization algorithms : ZeRO: Memory Optimizations Toward Training Trillion Parameter Models, Shampoo: Preconditioned Stochastic Tensor Optimization
+- TinyML : **Pruning**, Neural Architecture Searching (NAS)
+- Optimization algorithms : ZeRO: Memory Optimizations toward Training Trillion Parameter Models, **Shampoo: Preconditioned Stochastic Tensor Optimization**
 
 For deeper understanding, I am currently focusing on the following list:
-- OSS Contribution : [shampoo](https://github.com/facebookresearch/optimizers/commits/main/?author=namgyu-youn), maintained by Meta Research.
+- OSS Contribution : [shampoo](https://github.com/facebookresearch/optimizers/commits/main/?author=namgyu-youn), maintained by **Meta Research**.
 - Cohort of [Pseudo-Lab](https://github.com/Pseudo-Lab/EfficientML) : Learning TinyML techniques and reviewing papers with prof. Song Han's lecture, [MIT-6.5940](https://hanlab.mit.edu/courses/2024-fall-65940)
-- Cohort of Efficient AI study with [SqueezeBits](https://github.com/SqueezeBits) : Paper review study focusing on Efficient Generative AI.
+- Research Paper Reading Group hosted by [SqueezeBits](https://github.com/SqueezeBits): A collaborative study focused on Efficient Generative AI literature.
 
-
-p.s. Since I love exploring GitHub OSS, many useful tools are archived in starred list. If you have any interest, please check [DevOps](https://github.com/stars/namgyu-youn/lists/devops) and [Linux](https://github.com/stars/namgyu-youn/lists/linux)!
+p.s. Since I love exploring GitHub OSS, many useful tools are archived in starred list. Please check [DevOps](https://github.com/stars/namgyu-youn/lists/devops) and [Linux](https://github.com/stars/namgyu-youn/lists/linux)!
 
 [![Gradio](https://img.shields.io/badge/Gradio-F67D09?style=flat-square&logo=gradio&logoColor=white)](https://github.com/gradio-app/gradio)
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white)](https://github.com/tiangolo/fastapi)
