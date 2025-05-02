@@ -6,7 +6,7 @@ Undergraduate student interested in following EfficientML (i.e., memory-efficien
 For deeper understanding, I am currently focusing on the following list:
 - OSS Contribution : [shampoo](https://github.com/facebookresearch/optimizers/commits/main/?author=namgyu-youn), maintained by **Meta Research**.
 - Cohort of [Pseudo-Lab](https://github.com/Pseudo-Lab/EfficientML) : Learning TinyML techniques and reviewing papers with prof. Song Han's lecture, [MIT-6.5940](https://hanlab.mit.edu/courses/2024-fall-65940)
-- Research Paper Reading Group hosted by [SqueezeBits](https://github.com/SqueezeBits): A collaborative study focused on Efficient Generative AI literature.
+- Paper Reading Group hosted by [SqueezeBits](https://github.com/SqueezeBits): A collaborative study focused on Efficient Generative AI.
 
 p.s. Since I love exploring GitHub OSS, many useful tools are archived in starred list. Please check [DevOps](https://github.com/stars/namgyu-youn/lists/devops) and [Linux](https://github.com/stars/namgyu-youn/lists/linux)!
 
