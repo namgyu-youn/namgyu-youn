@@ -1,7 +1,7 @@
-Undergraduate student interested in following EfficientML (i.e., memory-efficient ML systems):
+Undergraduate student interested in EfficientML (i.e., memory-efficient ML systems):
 - Distributed training : Distributed Data Parallel (DDP), Tensor Parallel (TP)
 - TinyML : **Pruning**, Neural Architecture Searching (NAS)
-- Optimization algorithms : ZeRO: Memory Optimizations toward Training Trillion Parameter Models, **Shampoo: Preconditioned Stochastic Tensor Optimization**
+- Optimization algorithms : **Preconditioned Stochastic Tensor (Shampoo)**, ZeRO
 
 For deeper understanding, I am currently focusing on the following list:
 - OSS Contribution : [shampoo](https://github.com/facebookresearch/optimizers/commits/main/?author=namgyu-youn), maintained by **Meta Research**.
@@ -16,9 +16,9 @@ p.s. Since I love exploring GitHub OSS, many useful tools are archived in starre
 [![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=Apache%20Airflow&logoColor=white)](https://github.com/apache/airflow)
 [![WandB](https://img.shields.io/badge/WandB-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=white)](https://github.com/wandb/wandb)
 [![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)](https://github.com/supabase/supabase)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)](https://github.com/docker)
 [![Ruff](https://img.shields.io/badge/Ruff-D7FF64?style=flat-square&logo=ruff&logoColor=black)](https://github.com/astral-sh/ruff)
+[![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)](https://github.com/features/actions)
 
 <div align="left">
-  <img src="custom_metrics.svg" alt="GitHub Metrics" width="75%">
+  <img src="custom_metrics.svg" alt="GitHub Metrics" width="60%">
 </div>
